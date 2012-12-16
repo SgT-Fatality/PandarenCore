@@ -62,20 +62,3 @@ the doc directory.
 SQL files to create the database can be found in the sql directory. Files
 to update your database from an older revision/version can be found in the
 sql/updates directory.
-
-    Blog
-    Report a Bug
-    Support
-    Documentation
-    API
-    Forum
-    Server Status
-    Terms of Service
-    Privacy Policy
-
-    Git 1.7.10.3
-    Mercurial 2.2.2
-    Django 1.3.1
-    Python 2.7.3
-    309704b5e60d / 309704b5e60d @ bitbucket03
-
