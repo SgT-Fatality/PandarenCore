@@ -1,33 +1,3 @@
-
-Bitbucket
-
-    Dashboard
-    Repositories
-
-    owner/repository
-    Help
-    Terabyte
-
-PandarenCore
-PandarenCore
-
-    User Icon SgT_Fatality
-    Follow Icon Follow
-
-Clone Icon Clone Fork Icon Fork
-Compare Icon Compare Pull Request Icon Pull Request
-
-    Overview
-    Source
-    Commits
-    Pull Requests
-    Downloads 1
-
-Source Diff History
-PandarenCore / README
-Blame
-Full Commit Embed Raw
-
 PandarenCore
 ============
 
